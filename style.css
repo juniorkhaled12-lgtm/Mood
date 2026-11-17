@@ -30,3 +30,10 @@ button {
     border: none;
     border-radius: 8px;
 }
+button {
+    background-color: #16a34a;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+}
