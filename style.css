@@ -37,3 +37,22 @@ button {
     border: none;
     border-radius: 8px;
 }
+
+.produit {
+    background-color: white;
+    width: 85%;
+    max-width: 300px;
+    margin: 25px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.produit img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.produit button {
+    cursor: pointer;
+}
